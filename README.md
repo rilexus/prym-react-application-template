@@ -7,6 +7,8 @@ The objective of this exercise is to create an (almost) production ready React S
 * You MUST create a git repo.
 * You MUST Init an npm project with a name of your choice.
 * Install and configure all project related dependencies eg. React, ReactDOM, Webpack etc...
+* You MUST implement the ["SecondTask"](SecondTask.md)
+* You SHOULD implement the ["FirstTask"](FirstTask.md)
 
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
