@@ -1,3 +1,4 @@
+##Sign Up Page
 The second page under the URL `/signup` MUST represent an sign up page.
 It MUST contain:
 * Some sort of navigation bar

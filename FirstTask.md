@@ -1,4 +1,4 @@
-#First Task - Article Page
+##Article Page
 
 The first page under the URL `/article` MUST represent an article.
 It MUST contain:
